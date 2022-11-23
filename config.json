@@ -1,7 +1,7 @@
 {
 	"ip":"moonlightmc1.aternos.me",
 	"port": 31015,
-	"name": "afkbot",
+	"name": "MR.AB",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
